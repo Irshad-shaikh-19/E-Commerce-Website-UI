@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+     background: linear-gradient(to bottom, #fbd3d3, #cc99ff);
+}
+
+
+.img1{
+    border:none;
+    margin:30px;
+    border-radius: 5px;
+    
+}
+
+
+.container3{
+    margin-top: 30px;
+    text-align:center;
+}
+
+
+.container4{
+    margin-top: 80px;
+    text-align:center;
+}
+
+.div3{
+    border:none;
+    border-radius:10px;
+    background-color: white;
+    height:400px;
+    width: 300px;
+    display:inline-block;
+    margin:10px;
+
+}
+
+.newdiv{
+    
+    height:400px;
+    width: 88vw;
+    margin:0 auto;
+    padding:20px;
+    display:flex;
+    background-color: white;
+    align-items: center;
+    gap:30px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+
+.container8 {
+    max-width: 88vw;
+    height: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color:white;
+    border-radius: 10px;
+    font-size: larger;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.contact-info i {
+    margin-right: 10px;
+}
+
+.btn2 {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin:0 auto;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+
+.container9 {
+    max-width: 88vw;
+    height:auto;
+    margin: 50px auto;
+    padding: 20px;
+    background-color:white;
+    border-radius: 10px;
+    font-size: larger;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer{
+    width: 100vw;
+    height: auto;
+    margin: 0 auto;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    font-size: xx-large;
+
+}
+
+
+
+.main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main img {
+    width: 400px;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 7px #888888;
+    margin-bottom: 20px;
+}
+
+.main p {
+    font-size: 18px;
+    color: #333;
+}
+.content {
+    height: 50px;
+    width: 200px;
+    justify-content: center;
+    margin-top: 5px;
+    padding-top: 13px;
+    padding-left: 50px;
+}
+.content:hover {
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+}
+.carousel-item {
+    height:520px;
+}
+.links-1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+.box img:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.links-2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.footer-panel {
+    border-top: 1px solid black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.card {
+    background-color: #f8f9fa;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.5rem;
+}
+
+.card-header {
+    color: #333;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    border-radius: 0.25rem;
+}
+
+.btn {
+    border-radius: 0.25rem;
+    transition: all 0.3s ease;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+    transform: scale(1.05); /* Add a scale effect on hover */
+}
+
+.btn-success:focus,
+.btn-success.focus {
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+}
+
+.mb-2 {
+    margin-bottom: 1rem;
+}
+
+h3.text-center:hover {
+    color: #218838;
+    cursor: pointer;
+}
+
+
+.container10 {
+    max-width: 88vw;
+    height: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color:white;
+    border-radius: 10px;
+    font-size: medium;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
